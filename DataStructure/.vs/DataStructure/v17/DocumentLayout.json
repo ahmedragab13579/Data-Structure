@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\my_c\u002B\u002B\\DataStructure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{943C675C-FD9C-4245-80AF-36CAE1FA5772}|DataStructure\\DataStructure.vcxproj|D:\\my_c\u002B\u002B\\DataStructure\\DataStructure\\DataStructure.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{943C675C-FD9C-4245-80AF-36CAE1FA5772}|DataStructure\\DataStructure.vcxproj|solutionrelative:DataStructure\\DataStructure.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataStructure.cpp",
+              "DocumentMoniker": "D:\\my_c\u002B\u002B\\DataStructure\\DataStructure\\DataStructure.cpp",
+              "RelativeDocumentMoniker": "DataStructure\\DataStructure.cpp",
+              "ToolTip": "D:\\my_c\u002B\u002B\\DataStructure\\DataStructure\\DataStructure.cpp",
+              "RelativeToolTip": "DataStructure\\DataStructure.cpp",
+              "ViewState": "AgIAADUBAAAAAAAAAAAAADkBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-08T18:34:37.186Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
